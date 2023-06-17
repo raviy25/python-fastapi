@@ -1,6 +1,6 @@
-## Python application to scrape metacritic.com and expose Rest API for retrieving top PS4 game.
+## Python application to scrape \<website\> and expose Rest API for retrieving top  game.
 
-Webpage to scrape:  http://www.metacritic.com/game/playstation-4
+Webpage to scrape:  http://example.com
 
 ### Project structure details:
 
